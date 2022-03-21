@@ -12,7 +12,7 @@
 	The analysis found that in the year 2017 a crushing majority of the stocks that were analysed made a good return on investment with profit ranging from 1 to 3 digits and only one stock plunged in a one digit negative
 	
 	Below is a screenshot of the 2017 results
-	![VBA_Challenge_2017] ![image](https://user-images.githubusercontent.com/97865472/159197020-1cc52a65-2140-4b2e-ad78-4e55ff7a75bf.png)
+	![VBA_Challenge_2017] (https://user-images.githubusercontent.com/97865472/159197020-1cc52a65-2140-4b2e-ad78-4e55ff7a75bf.png)
 
 ### Stock performance 2018
 	The analysis also found that in the year 2018 all but two stocks fell below the negative return on investment down to -62 % and only two stocks remained profitable up to 84% return on investment

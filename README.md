@@ -12,13 +12,13 @@
 	The analysis found that in the year 2017 a crushing majority of the stocks that were analysed made a good return on investment with profit ranging from 1 to 3 digits and only one stock plunged in a one digit negative
 	
 	Below is a screenshot of the 2017 results
-	![VBA_Challenge_2017] (https://github.com/AminataMiller/stock-analysis/blob/main/Resources/VBA_Challenge_2017.png)
+	![VBA_Challenge_2017] (VBA_Challenge_2017.png)
 
 ### Stock performance 2018
 	The analysis also found that in the year 2018 all but two stocks fell below the negative return on investment down to -62 % and only two stocks remained profitable up to 84% return on investment
 	
 	Below is the illustration
-	![VBA_Challenge_2018] (https://github.com/AminataMiller/stock-analysis/blob/main/Resources/VBA_Challenge_2018.png)
+	![VBA_Challenge_2018] (VBA_Challenge_2018.png)
 
 ### Comparition of stock performance
 	Compared to 2017, the year 2018 was far less profitable for the vast majority of the stocks that we analysed with only two stocks remaining above 80% of return on investment.
@@ -38,17 +38,16 @@
 	We were able to find the total volume as well as the return for each ticker.	
 
 	Here is a screenshot of both years performance
-	![VBA_Challenge_2017] (https://github.com/AminataMiller/stock-analysis/blob/main/Resources/VBA_Challenge_2017.png)
-	![VBA_Challenge_2018] (https://github.com/AminataMiller/stock-analysis/blob/main/Resources/VBA_Challenge_2018.png)
+	![VBA_Challenge_2017] (VBA_Challenge_2017.png)
+	![VBA_Challenge_2018] (VBA_Challenge_2018.png)
 
 ### Comparition of execution time
 	When running, the original script seems to take more time to execute compared to the refactored script.
 
-	![2017 Stock performance and execution time] (https://github.com/AminataMiller/stock-analysis/blob/main/Resources/2017%20stock%20performance%20and%20execution%20time.png)
-	![VBA_Challenge_2017] (https://github.com/AminataMiller/stock-analysis/blob/main/Resources/VBA_Challenge_2017.png)
-
-	![2018 Stock performance and execution time](https://github.com/AminataMiller/stock-analysis/blob/main/Resources/2018%20stock%20performance%20and%20execution%20time.png)
-	![VBA_Challenge_2018] (https://github.com/AminataMiller/stock-analysis/blob/main/Resources/VBA_Challenge_2018.png)
+	![2017_stock_performance] (2017_stock_performance.png)
+	![VBA_Challenge_2017] (VBA_Challenge_2017.png)
+	![2018_stock_performance](2018_stock_performance.png)
+	![VBA_Challenge_2018] (VBA_Challenge_2018.png)
 
 ## SUMMARY
 	1. The advantages of refactoring code are:
